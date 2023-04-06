@@ -1,4 +1,9 @@
 # Blood Donation Management Website
+This was a team based project executed in 2021.
+# My Role:
+1. UI/UX Design
+2. FRONT END DEVELOPMENT
+3. MARKET RESEARCH
 # Problem Statement:-
 Develop and design a web portal for management of blood from blood banks. 
 # Objectives and Scope:-
