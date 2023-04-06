@@ -1,6 +1,6 @@
-# Donation desk website
+# Blood Donation Management Website
 # Problem Statement:-
-Designing a web portal for management of blood from blood banks. 
+Develop and design a web portal for management of blood from blood banks. 
 # Objectives and Scope:-
 
 • To develop a safe platform for blood donation management.
